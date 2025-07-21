@@ -23,6 +23,9 @@ python-dateutil==2.9.0.post0
 tqdm==4.66.4
 
 # System utilities
+python-dotenv  # ✅ Added to fix Render error
+
+# System utilities
 requests==2.32.3
 
 # Local development
