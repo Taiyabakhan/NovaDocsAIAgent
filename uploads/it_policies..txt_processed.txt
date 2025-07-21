@@ -1,0 +1,50 @@
+TechCorp IT Policies and Procedures
+
+IT SUPPORT CONTACT INFORMATION
+- Help Desk Email: help@techcorp.com
+- Help Desk Phone: (555) 123-TECH (8324)
+- Emergency IT Line: (555) 911-TECH (available 24/7)
+- IT Portal: portal.techcorp.com
+
+EQUIPMENT POLICIES
+All company-issued equipment remains property of TechCorp.
+Laptops must be returned within 3 days of employment termination.
+Personal use of company equipment is permitted for reasonable purposes.
+Report lost or stolen equipment immediately to IT security.
+
+PASSWORD REQUIREMENTS
+- Minimum 12 characters
+- Must include uppercase, lowercase, numbers, and special characters
+- Cannot reuse last 6 passwords
+- Must be changed every 90 days
+- Two-factor authentication required for all systems
+
+SOFTWARE INSTALLATION
+Only approved software may be installed on company devices.
+Submit software requests through the IT portal.
+Unapproved software will be automatically removed.
+Personal software installation requires written approval.
+
+NETWORK SECURITY
+- Company WiFi password: TechCorp2024!
+- Guest network available for visitors
+- VPN required for remote access to internal systems
+- USB ports are disabled on all workstations for security
+
+EMAIL POLICIES
+Company email is for business purposes primarily.
+Personal use should be minimal and appropriate.
+Email retention policy: 7 years for business emails.
+Suspicious emails should be reported to security@techcorp.com.
+
+INCIDENT REPORTING
+Report security incidents immediately to the IT Security team.
+Include: date, time, description, and any affected systems.
+Do not attempt to fix security issues yourself.
+Incident response team will coordinate resolution.
+
+BACKUP PROCEDURES
+All work files must be stored on company servers or approved cloud storage.
+Personal backups to external drives are prohibited.
+Automatic backups run nightly for all critical systems.
+Contact IT to restore files from backup.
