@@ -1,7 +1,11 @@
+import logging
+logging.basicConfig(level=logging.DEBUG)
+
 import streamlit as st
 from query_engine import QueryEngine
 from document_processor import DocumentProcessor
 import os
+os.environ["STREAMLIT_SERVER_PORT"] = os.getenv("PORT", "10000")
 import tempfile
 from pathlib import Path
 import docx
