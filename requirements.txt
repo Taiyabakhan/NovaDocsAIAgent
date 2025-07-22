@@ -28,5 +28,3 @@ python-dotenv==1.0.1
 requests==2.32.3
 watchdog==4.0.0
 
-# Optional: For file handling and text processing
-mimetypes  # built-in, doesn't need install
