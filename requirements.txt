@@ -1,3 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 # Core app dependencies
 streamlit==1.35.0
 pandas==2.2.2
@@ -11,17 +13,20 @@ PyPDF2==3.0.1
 transformers==4.41.1
 sentence-transformers==2.6.1
 faiss-cpu==1.7.4
-torch==2.2.2  # Required for HuggingFace Transformers
+torch==2.2.2+cpu
 
-# Langchain and text splitting
+# Langchain (text splitting)
 langchain==0.1.20
 langchain-text-splitters==0.0.1
 
 # Backend utilities
-scikit-learn==1.3.2  # Downgraded to avoid numpy 2.0 conflict
+scikit-learn==1.3.2
 python-magic==0.4.27
 python-dateutil==2.9.0.post0
 tqdm==4.66.4
 python-dotenv==1.0.1
 requests==2.32.3
 watchdog==4.0.0
+
+# Optional: For file handling and text processing
+mimetypes  # built-in, doesn't need install
