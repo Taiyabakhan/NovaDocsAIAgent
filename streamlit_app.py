@@ -1,6 +1,3 @@
-import logging
-logging.basicConfig(level=logging.DEBUG)
-
 import streamlit as st
 from query_engine import QueryEngine
 from document_processor import DocumentProcessor
